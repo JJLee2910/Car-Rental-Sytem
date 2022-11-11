@@ -1,0 +1,5 @@
+test1|| abc123|| MALE|| 12|| 0123456789|| test@mail.com|| asdasd
+cody|| abc321|| MALE|| 20|| 01234556788|| cody@gmail.com|| glenmarrie
+jj|| abc123|| MALE|| 20|| 0123456677|| jj@gmail.com|| jj 123
+tester 2|| abc321|| MALE|| 19|| 01234566789|| test2@mail.com|| test 2 home stay
+ads|| abc|| MALE|| 12|| 01234567890|| asd@gmail.com|| asd

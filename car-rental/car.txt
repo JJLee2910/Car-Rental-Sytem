@@ -1,0 +1,7 @@
+abc 321|| honda|| hrv|| 5|| 55.00|| AUTO
+bjk 6974|| toyota|| innova|| 6|| 60.00|| AUTO
+www 2313|| honda|| civic|| 4|| 80.00|| MANUAL
+www 1|| Nissan|| Almera|| 2|| 66.00|| AUTO
+knm 9987|| proton|| x50|| 5|| 88.00|| AUTO
+kkk 7799|| Proton|| Saga|| 5|| 69.00|| AUTO
+aaa 7766|| perdodua|| axia|| 4|| 40.00|| MANUAL
