@@ -19,3 +19,7 @@
 
 # External Libraries used in the project
 ![image](https://user-images.githubusercontent.com/83653118/208134760-b34517f2-9039-44f3-a12f-071d42146a45.png)
+
+# Data Output path
+1. The data will be all stored under the car-rental folder
+  - \car-rental\car-rental\car-rental
