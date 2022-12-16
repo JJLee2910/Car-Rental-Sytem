@@ -17,5 +17,5 @@
 5. Develop an Analytical Dashboard for the admin.
 6. Please feel free to think of more improvements of the current system.
 
-# External Libraries import into the project
+# External Libraries used in the project
 ![image](https://user-images.githubusercontent.com/83653118/208134760-b34517f2-9039-44f3-a12f-071d42146a45.png)
